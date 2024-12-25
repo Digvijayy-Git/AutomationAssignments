@@ -64,7 +64,7 @@ public class ArrayAssignment {
 				supermarket [1][3][3]= "Potatoes";
 				supermarket [1][3][4]= "Onions";
 				
-				System.out.println(supermarket [1][0][0]);
+				System.out.println(supermarket [1][3][2]);
 		
 	
 		
