@@ -65,9 +65,7 @@ public class ArrayAssignment {
 				supermarket [1][3][4]= "Onions";
 				
 				System.out.println(supermarket [1][3][2]);
-		
 	
-		
 		
 	}
 
